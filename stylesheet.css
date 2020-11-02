@@ -1,0 +1,64 @@
+H2{
+    font-family: 'Cormorant Garamond', serif;
+    font-style: italic;
+    font-size: large;
+
+    text-align: center;
+}
+
+H3{
+    font-family: 'Cormorant Garamond', serif;
+    font-style: normal;
+    font-size: medium;
+
+    text-align: center;
+}
+
+H4{
+    font-family: 'Cormorant Garamond', serif;
+    font-style: normal;
+    font-size: small;
+
+    text-align: center;
+}
+
+H5{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-size: medium;
+
+    text-align: center;
+}
+
+p{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-size: small;
+
+    text-align: center;
+    padding: 12px;
+    margin: 5%;
+}
+
+footer{
+    background-color: #365866;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-size: small;
+    text-align: center;
+    padding: 12px;
+}
+
+.card-deck {
+    margin: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+}
+
+#OCLogo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
