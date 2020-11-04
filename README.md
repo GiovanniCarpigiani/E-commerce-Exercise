@@ -1,2 +1,9 @@
-# E-commerce-Exercise
-In this exercise the aim is to module over a existing e-commerce and to code the new version from scratch. 
+# Landing Page
+
+The landing page is the first page that will be opened when the user access the website. 
+It has information on: 
+
+- Welcome text;
+- Some products (To be mirrored from back office page and categories. 
+- contact links 
+
