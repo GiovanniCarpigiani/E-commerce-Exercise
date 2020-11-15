@@ -62,3 +62,23 @@ footer{
     width: 50%;
 }
 
+#navbar-brand{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#social #container{ 
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 10px;
+
+}
+
+#social #container ul{
+    float: left;
+    padding-left: 10px;
+    list-style-type: none;
+}
+
